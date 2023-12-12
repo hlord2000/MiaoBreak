@@ -1,0 +1,4 @@
+[submodule "zmk"]
+	path = zmk
+	url = https://github.com/hlord2000/zmk.git
+	branch = angry_miao_hatsu
