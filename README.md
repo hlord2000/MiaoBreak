@@ -1,3 +1,8 @@
+# MiaoBreak - ZMK Firmware on Angry Miao Keyboards
+<p align="center">
+  <img src="img/miaobreak.png" alt="centered image" />
+</p>
+
 # DISCLAIMER: ANGRY MIAO OEM FIRMWARE CANNOT BE RECOVERED AT THIS TIME.
 ## The nRF52840 implements "access port protection" that prevents the existing Hatsu firmware from being dumped. This means that you cannot restore your Hatsu to factory settings after you flash ZMK.
 # DISCLAIMER: THE CASE OF THE HATSU MUST BE OPENED. THE RUBBER FEET AND THEIR ADHESIVE MAY BE PERMANENTLY DAMAGED IN THE PROCESS. TO PURCHASE ADDITIONAL FEET PLEASE CONTACT ME OR ANGRY MIAO
@@ -43,28 +48,30 @@ Next, remove the battery and bottom plate assembly. Keep it close by.
 
 Using the DuPont connectors, connect the "GND," "SWDIO," and "SWCLK" pins to the ST-Link. ***Your pinout may look different from the picture below!***
 
-<p>
-    <img href="">
+<p align="center">
+  <img src="img/img.png" alt="centered image" />
 </p>
 
 You will then insert 3 male headers into the other end of the DuPont connectors to hold them together.
 
 Match the pinout to the pinout on the board. This is as follows:
 
-<p>
-    <img href="">
+<p align="center">
+  <img src="img/img.png" alt="centered image" />
 </p>
 
 Next, insert these pins into the SWD port of the Hatsu. The location differs on the left and right halves.
 
 **Left**
-<p>
-    <img href="">
+
+<p align="center">
+  <img src="img/img.png" alt="centered image" />
 </p>
 
 **Right**
-<p>
-    <img href="">
+
+<p align="center">
+  <img src="img/img.png" alt="centered image" />
 </p>
 
 Finally, connect the Hatsu's USB-C to power the board.
