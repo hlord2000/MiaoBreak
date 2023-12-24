@@ -8,12 +8,17 @@
 # DISCLAIMER: THE CASE OF THE HATSU MUST BE OPENED. THE RUBBER FEET AND THEIR ADHESIVE MAY BE PERMANENTLY DAMAGED IN THE PROCESS. TO PURCHASE ADDITIONAL FEET PLEASE CONTACT ME OR ANGRY MIAO
 
 # Step 0: Acquire Debugger
-To program the Hatsu, we must acquire a hardware debugger. Using an ST-Link V2 or a clone will be perfectly fine. 
+To program the Hatsu, you must have a hardware debugger. Using an ST-Link V2 or a clone will be perfectly fine. 
+
 ### Note that different ST-Link clones may have different pinouts.
 These debuggers are known to work:
+
 Official:
+
 https://www.adafruit.com/product/2548
+
 Aideepen:
+
 https://www.amazon.com/dp/B01J7N3RE6?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
 # Step 1: Tool Setup
