@@ -49,15 +49,19 @@ Next, remove the battery and bottom plate assembly. Keep it close by.
 Using the DuPont connectors, connect the "GND," "SWDIO," and "SWCLK" pins to the ST-Link. ***Your pinout may look different from the picture below!***
 
 <p align="center">
-  <img src="img/img.png" alt="centered image" />
+  <img src="img/st_link.png" alt="centered image" />
 </p>
 
 You will then insert 3 male headers into the other end of the DuPont connectors to hold them together.
 
+<p align="center">
+  <img src="img/dupont_headers.png" alt="centered image" />
+</p>
+
 Match the pinout to the pinout on the board. This is as follows:
 
 <p align="center">
-  <img src="img/img.png" alt="centered image" />
+  <img src="img/pinout.png" alt="centered image" />
 </p>
 
 Next, insert these pins into the SWD port of the Hatsu. The location differs on the left and right halves.
@@ -65,13 +69,21 @@ Next, insert these pins into the SWD port of the Hatsu. The location differs on 
 **Left**
 
 <p align="center">
-  <img src="img/img.png" alt="centered image" />
+  <img src="img/left_side_pinout.png" alt="centered image" />
+</p>
+
+<p align="center">
+  <img src="img/left_side_plugged.png" alt="centered image" />
 </p>
 
 **Right**
 
 <p align="center">
-  <img src="img/img.png" alt="centered image" />
+  <img src="img/right_side_pinout.png" alt="centered image" />
+</p>
+
+<p align="center">
+  <img src="img/right_side_plugged.png" alt="centered image" />
 </p>
 
 Finally, connect the Hatsu's USB-C to power the board.
