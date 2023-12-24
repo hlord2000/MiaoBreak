@@ -109,6 +109,10 @@ Just copy the "hatsu_left.uf2" or "hatsu_right.uf2" to each half. Repeat steps 3
 
 # Step 5: Customize!
 
-Use MiaoBreak's ZMK fork to alter the keymap. For assistance in altering the keymap, check out the ![ZMK Discord](https://discord.com/invite/sycytVQ).
+Use MiaoBreak's ZMK fork to alter the keymap. For assistance in altering the keymap, check out the ZMK Discord!
 
-For specific MiaoBreak issues, check out the ![MiaoBreak Discord](https://discord.gg/8EWv9B9e5V)
+![Discord Shield](https://discordapp.com/api/guilds/1185378295819280424/widget.png?style=banner3)
+
+For specific MiaoBreak issues, check out the MiaoBreak Discord!
+
+![Discord Shield](https://discordapp.com/api/guilds/719497620560543766/widget.png?style=banner3)
