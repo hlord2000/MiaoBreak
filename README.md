@@ -1,6 +1,6 @@
 # MiaoBreak - ZMK Firmware on Angry Miao Keyboards
 <p align="center">
-  <img src="img/miaobreak.png" alt="centered image" />
+  <img src="img/miaobreak.jpg" alt="centered image" />
 </p>
 
 # DISCLAIMER: ANGRY MIAO OEM FIRMWARE CANNOT BE RECOVERED AT THIS TIME.
