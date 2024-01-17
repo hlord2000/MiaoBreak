@@ -95,6 +95,10 @@ Finally, connect the Hatsu's USB-C to power the board.
 
 # Step 4: Program
 
+## NOTE: The order of operations must be followed very carefully so that your halves will pair with one another.
+
+"Keeping the batteries disconnected keeps them from binding to eachother as you're flashing them. Maybe less important on the very first try, but if you have to try more than once, then I think it's important." -zpriddy
+
 With the pins inserted into the through holes, tilt them slightly so that they make good contact.
 
 If you are on Linux or MacOS, run the script "flashing/flash.sh"
@@ -105,4 +109,14 @@ This programs the nRF52840 USB bootloader.
 
 You should see a flash drive appear on your computer titled "AM_HATSU"
 
-Just copy the "hatsu_left.uf2" or "hatsu_right.uf2" to each half. Repeat steps 3 and 4 for each half.
+Disconnect all batteries from each half.
+
+Begin by flashing the right half. Copy the right.uf2 to the AM_HATSU drive.
+
+## Disconnect all batteries
+
+Flash the left by copying the left.uf2 to the AM_HATSU drive. Do not connect its battery yet.
+
+Connect the right half's battery.
+
+With the left still connected via USB, plug in its battery. Both halves should successfully pair and bond.
